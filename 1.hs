@@ -1,0 +1,2 @@
+myLast list = last list
+
